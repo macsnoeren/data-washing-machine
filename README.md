@@ -1,2 +1,3 @@
-# data-washing-machine
-Everyday data breaches occur. We should not accept this aspect. The research project data washing machine implements a privacy-by-design database to be used for private user information.
+# Data Washing Machine
+
+This project aims to provide privacy-by-design systems. It belongs to a bigger project in which artificial intelligence algoritms are used to be able to exchange data sets without exposing the privacy information of the user. A first step has been taken to research whether it is possible to create a privacy-by-design system. A breach of the database data or access to the data should not lead to a data breach! Within our organisation we do a lot of research and collect all kinds of data from users. This data is very sensitive and we would like that this data uses these privacy-by-design techniques.
